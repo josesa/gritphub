@@ -4,7 +4,7 @@ namespace Gritphub;
 
 use Github\Client as GithubClient;
 
-class Gritphub
+class Client
 {
     private $client = null;
 
