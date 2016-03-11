@@ -1,0 +1,11 @@
+{
+  "name": "josesa/gritphub",
+  "require": {
+    "knplabs/github-api": "^1.6"
+  },
+  "autoload": {
+    "psr-0" : {
+      "Gritphub" : "src"
+    }
+  }
+}
