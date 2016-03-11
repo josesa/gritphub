@@ -4,8 +4,6 @@
     "knplabs/github-api": "^1.6"
   },
   "autoload": {
-    "psr-0" : {
-      "Gritphub" : "src"
-    }
+    "psr-4": { "Gritphub\\": "src/Gritphub/" }
   }
 }
