@@ -10,6 +10,8 @@ class Client
 
     private $githubToken = null;
 
+    private $owner = null;
+
     public function __construct($config)
     {
 
